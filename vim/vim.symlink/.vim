@@ -1,0 +1,1 @@
+/Users/jfranz/.dotfiles/vim/vim.symlink

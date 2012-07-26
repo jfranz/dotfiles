@@ -10,3 +10,13 @@ ln -s "$ZSH/sublime2/User" "$sublime_dir"
 # Grab the Soda theme
 cd "$sublime_dir"
 git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
+
+# Grab the rest of packages I want
+git clone https://github.com/Xavura/CoffeeScript-Sublime-Plugin/ "CoffeeScript"
+git clone git://github.com/drewda/cucumber-sublime2-bundle.git Cucumber
+git clone git://github.com/phillipkoebbe/DetectSyntax.git "DetectSyntax"
+git clone git://github.com/kemayo/sublime-text-2-git.git Git
+git clone git://github.com/SublimeText/RSpec.git
+git clone -b SublimeText2 git://github.com/kuroir/SCSS.tmbundle.git SCSS
+git clone https://github.com/SublimeLinter/SublimeLinter.git "SublimeLinter"
+git clone git://github.com/sublimator/ZenCoding.git
