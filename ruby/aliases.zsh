@@ -14,3 +14,4 @@ alias be="b exec"
 alias binit="bi && b package && echo 'vendor/ruby' >> .gitignore"
 
 alias rs='be rails server'
+alias fs='foreman start'
