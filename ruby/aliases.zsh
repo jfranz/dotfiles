@@ -1,4 +1,4 @@
-alias r='rbenv local 1.9.3-p194'
+alias r='rbenv local 2.0.0-p247'
 
 alias sc='script/console'
 alias sg='script/generate'
